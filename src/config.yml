@@ -1,0 +1,18 @@
+# 搜索关键字
+param:
+  keyword: ThinkBook14+
+  qrst: 1
+  wq: ThinkBook14+
+  # 搜索标签代码-在京东网页搜索接口获取
+  ev: exbrand_ThinkPad^5283_183888^149_76035^
+# 通知电话
+phones:
+  - 137********
+# AppId
+appid:
+# App Key
+app_key:
+# 签名内容
+sign:
+# 模板 id
+tmpl_id:
